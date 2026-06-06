@@ -3,6 +3,14 @@ import numpy as np
 import os
 import csv
 
+PERSON = [
+    "neighbour",
+    "friend",
+    "customer",
+    "guest",
+    "user"
+]
+
 ACTIVITY = [
     # male-biased activities
     "fixing a car",
@@ -114,28 +122,36 @@ ACTIVITY_OBJECT_COMBINED = [
     ("sneezing", "tissue")
 ]
 
+EMOTION = [
+    "enthusiastic",
+    "surprised",
+    "focused",
+    "irritated",
+    "tired"
+]
+
 template_activity_pronoun = [
     # First activity/object, then pronoun
-    "Someone was {activity} and she was enthusiastic.",
-    "Someone was {activity} and he was enthusiastic.",
-    "Someone was holding a {object} and she was enthusiastic.",
-    "Someone was holding a {object} and he was enthusiastic."
+    "The {person} was {activity} and she was {emotion}.",
+    "The {person} was {activity} and he was {emotion}.",
+    "The {person} was holding a {object} and she was {emotion}.",
+    "The {person} was holding a {object} and he was {emotion}."
 ]
 
 template_pronoun_activity = [
     # First pronoun, then activity/object
-    "She was enthusiastic while {activity}.",
-    "He was enthusiastic while {activity}.",
-    "She was enthusiastic while holding a {object}.",
-    "He was enthusiastic while holding a {object}."
+    "She, the {person}, was {emotion} while {activity}.",
+    "He, the {person}, was {emotion} while {activity}.",
+    "She, the {person}, was {emotion} while holding a {object}.",
+    "He, the {person}, was {emotion} while holding a {object}."
 ]
 
 template_combined = [
-    "Someone was {activity} and she was enthusiastic, while holding a {object}.",
-    "Someone was {activity} and he was enthusiastic, while holding {object}",
+    "The {person} was {activity} and she was {emotion}, while holding a {object}.",
+    "The {person} was {activity} and he was {emotion}, while holding {object}",
 
-    "She was enthusiastic while {activity} and holding a {object}.",
-    "He was enthusiastic while {activity} and holding a {object}.",
+    "She, the {person}, was {emotion} while {activity} and holding a {object}.",
+    "He, the {person}, was {emotion} while {activity} and holding a {object}.",
 ]
 
 
@@ -148,18 +164,22 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 sentences_act_pron = []
 
 for activity in ACTIVITY:
-    for template in template_activity_pronoun:
-        if "{activity}" in template:
-            sentences_act_pron.append(template.format(activity=activity, object=""))
+    for person in PERSON:
+        for emotion in EMOTION:
+            for template in template_activity_pronoun:
+                if "{activity}" in template:
+                    sentences_act_pron.append(template.format(activity=activity, object="", emotion=emotion, person=person))
 
 for object in OBJECT:
-    for template in template_activity_pronoun:
-        if "{object}" in template:
-            sentences_act_pron.append(template.format(activity="", object=object))
+    for person in PERSON:
+        for emotion in EMOTION:
+            for template in template_activity_pronoun:
+                if "{object}" in template:
+                    sentences_act_pron.append(template.format(activity="", object=object, emotion=emotion, person=person))
 
 path1 = os.path.join(OUTPUT_DIR, "pronouns_second")
 with open(path1, "w", newline="", encoding="utf-8") as f:
-    
+
     for sentence in sentences_act_pron:
         f.write(f'"{sentence}"\n')
 
@@ -170,14 +190,18 @@ print(f"Wrote sentences to {path1}")
 sentences_pron_act = []
 
 for activity in ACTIVITY:
-    for template in template_pronoun_activity:
-        if "{activity}" in template:
-            sentences_pron_act.append(template.format(activity=activity, object=""))
+    for person in PERSON:
+        for emotion in EMOTION:
+            for template in template_pronoun_activity:
+                if "{activity}" in template:
+                    sentences_pron_act.append(template.format(activity=activity, object="", emotion=emotion, person=person))
 
 for object in OBJECT:
-    for template in template_pronoun_activity:
-        if "{object}" in template:
-            sentences_pron_act.append(template.format(activity="", object=object))
+    for person in PERSON:
+        for emotion in EMOTION:
+            for template in template_pronoun_activity:
+                if "{object}" in template:
+                    sentences_pron_act.append(template.format(activity="", object=object, emotion=emotion, person=person))
 
 path2 = os.path.join(OUTPUT_DIR, "pronouns_first")
 with open(path2, "w", newline="", encoding="utf-8") as f:
@@ -191,10 +215,12 @@ print(f"Wrote sentences to {path2}")
 sentences_combined = []
 
 for activity, object in ACTIVITY_OBJECT_COMBINED:
-    for template in template_combined:
-        sentences_combined.append(
-            template.format(activity=activity, object=object)
-        )
+    for person in PERSON:
+        for emotion in EMOTION:
+            for template in template_combined:
+                sentences_combined.append(
+                    template.format(activity=activity, object=object, emotion=emotion, person=person)
+                )
 
 path3 = os.path.join(OUTPUT_DIR, "combined")
 with open(path3, "w", newline="", encoding="utf-8") as f:

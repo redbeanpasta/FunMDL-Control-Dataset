@@ -1,0 +1,391 @@
+sentence,pronoun_original,activity,bias
+The neighbour was playing rugby and she continued.,F,playing rugby,M
+The neighbour was playing rugby and he continued.,M,playing rugby,M
+The friend was playing rugby and she continued.,F,playing rugby,M
+The friend was playing rugby and he continued.,M,playing rugby,M
+The customer was playing rugby and she continued.,F,playing rugby,M
+The customer was playing rugby and he continued.,M,playing rugby,M
+The guest was playing rugby and she continued.,F,playing rugby,M
+The guest was playing rugby and he continued.,M,playing rugby,M
+The user was playing rugby and she continued.,F,playing rugby,M
+The user was playing rugby and he continued.,M,playing rugby,M
+The neighbour was playing ice hockey and she continued.,F,playing ice hockey,M
+The neighbour was playing ice hockey and he continued.,M,playing ice hockey,M
+The friend was playing ice hockey and she continued.,F,playing ice hockey,M
+The friend was playing ice hockey and he continued.,M,playing ice hockey,M
+The customer was playing ice hockey and she continued.,F,playing ice hockey,M
+The customer was playing ice hockey and he continued.,M,playing ice hockey,M
+The guest was playing ice hockey and she continued.,F,playing ice hockey,M
+The guest was playing ice hockey and he continued.,M,playing ice hockey,M
+The user was playing ice hockey and she continued.,F,playing ice hockey,M
+The user was playing ice hockey and he continued.,M,playing ice hockey,M
+The neighbour was racing with a motor cycle and she continued.,F,racing with a motor cycle,M
+The neighbour was racing with a motor cycle and he continued.,M,racing with a motor cycle,M
+The friend was racing with a motor cycle and she continued.,F,racing with a motor cycle,M
+The friend was racing with a motor cycle and he continued.,M,racing with a motor cycle,M
+The customer was racing with a motor cycle and she continued.,F,racing with a motor cycle,M
+The customer was racing with a motor cycle and he continued.,M,racing with a motor cycle,M
+The guest was racing with a motor cycle and she continued.,F,racing with a motor cycle,M
+The guest was racing with a motor cycle and he continued.,M,racing with a motor cycle,M
+The user was racing with a motor cycle and she continued.,F,racing with a motor cycle,M
+The user was racing with a motor cycle and he continued.,M,racing with a motor cycle,M
+The neighbour was kick-boxing and she continued.,F,kick-boxing,M
+The neighbour was kick-boxing and he continued.,M,kick-boxing,M
+The friend was kick-boxing and she continued.,F,kick-boxing,M
+The friend was kick-boxing and he continued.,M,kick-boxing,M
+The customer was kick-boxing and she continued.,F,kick-boxing,M
+The customer was kick-boxing and he continued.,M,kick-boxing,M
+The guest was kick-boxing and she continued.,F,kick-boxing,M
+The guest was kick-boxing and he continued.,M,kick-boxing,M
+The user was kick-boxing and she continued.,F,kick-boxing,M
+The user was kick-boxing and he continued.,M,kick-boxing,M
+The neighbour was body building and she continued.,F,body building,M
+The neighbour was body building and he continued.,M,body building,M
+The friend was body building and she continued.,F,body building,M
+The friend was body building and he continued.,M,body building,M
+The customer was body building and she continued.,F,body building,M
+The customer was body building and he continued.,M,body building,M
+The guest was body building and she continued.,F,body building,M
+The guest was body building and he continued.,M,body building,M
+The user was body building and she continued.,F,body building,M
+The user was body building and he continued.,M,body building,M
+The neighbour was playing soccer and she continued.,F,playing soccer,M
+The neighbour was playing soccer and he continued.,M,playing soccer,M
+The friend was playing soccer and she continued.,F,playing soccer,M
+The friend was playing soccer and he continued.,M,playing soccer,M
+The customer was playing soccer and she continued.,F,playing soccer,M
+The customer was playing soccer and he continued.,M,playing soccer,M
+The guest was playing soccer and she continued.,F,playing soccer,M
+The guest was playing soccer and he continued.,M,playing soccer,M
+The user was playing soccer and she continued.,F,playing soccer,M
+The user was playing soccer and he continued.,M,playing soccer,M
+The neighbour was playing petanque and she continued.,F,playing petanque,M
+The neighbour was playing petanque and he continued.,M,playing petanque,M
+The friend was playing petanque and she continued.,F,playing petanque,M
+The friend was playing petanque and he continued.,M,playing petanque,M
+The customer was playing petanque and she continued.,F,playing petanque,M
+The customer was playing petanque and he continued.,M,playing petanque,M
+The guest was playing petanque and she continued.,F,playing petanque,M
+The guest was playing petanque and he continued.,M,playing petanque,M
+The user was playing petanque and she continued.,F,playing petanque,M
+The user was playing petanque and he continued.,M,playing petanque,M
+The neighbour was playing water polo and she continued.,F,playing water polo,M
+The neighbour was playing water polo and he continued.,M,playing water polo,M
+The friend was playing water polo and she continued.,F,playing water polo,M
+The friend was playing water polo and he continued.,M,playing water polo,M
+The customer was playing water polo and she continued.,F,playing water polo,M
+The customer was playing water polo and he continued.,M,playing water polo,M
+The guest was playing water polo and she continued.,F,playing water polo,M
+The guest was playing water polo and he continued.,M,playing water polo,M
+The user was playing water polo and she continued.,F,playing water polo,M
+The user was playing water polo and he continued.,M,playing water polo,M
+The neighbour was cycling and she continued.,F,cycling,M
+The neighbour was cycling and he continued.,M,cycling,M
+The friend was cycling and she continued.,F,cycling,M
+The friend was cycling and he continued.,M,cycling,M
+The customer was cycling and she continued.,F,cycling,M
+The customer was cycling and he continued.,M,cycling,M
+The guest was cycling and she continued.,F,cycling,M
+The guest was cycling and he continued.,M,cycling,M
+The user was cycling and she continued.,F,cycling,M
+The user was cycling and he continued.,M,cycling,M
+The neighbour was rowing and she continued.,F,rowing,M
+The neighbour was rowing and he continued.,M,rowing,M
+The friend was rowing and she continued.,F,rowing,M
+The friend was rowing and he continued.,M,rowing,M
+The customer was rowing and she continued.,F,rowing,M
+The customer was rowing and he continued.,M,rowing,M
+The guest was rowing and she continued.,F,rowing,M
+The guest was rowing and he continued.,M,rowing,M
+The user was rowing and she continued.,F,rowing,M
+The user was rowing and he continued.,M,rowing,M
+The neighbour was mountain biking and she continued.,F,mountain biking,M
+The neighbour was mountain biking and he continued.,M,mountain biking,M
+The friend was mountain biking and she continued.,F,mountain biking,M
+The friend was mountain biking and he continued.,M,mountain biking,M
+The customer was mountain biking and she continued.,F,mountain biking,M
+The customer was mountain biking and he continued.,M,mountain biking,M
+The guest was mountain biking and she continued.,F,mountain biking,M
+The guest was mountain biking and he continued.,M,mountain biking,M
+The user was mountain biking and she continued.,F,mountain biking,M
+The user was mountain biking and he continued.,M,mountain biking,M
+The neighbour was doing aikido and she continued.,F,doing aikido,M
+The neighbour was doing aikido and he continued.,M,doing aikido,M
+The friend was doing aikido and she continued.,F,doing aikido,M
+The friend was doing aikido and he continued.,M,doing aikido,M
+The customer was doing aikido and she continued.,F,doing aikido,M
+The customer was doing aikido and he continued.,M,doing aikido,M
+The guest was doing aikido and she continued.,F,doing aikido,M
+The guest was doing aikido and he continued.,M,doing aikido,M
+The user was doing aikido and she continued.,F,doing aikido,M
+The user was doing aikido and he continued.,M,doing aikido,M
+The neighbour was doing tae kwon do and she continued.,F,doing tae kwon do,M
+The neighbour was doing tae kwon do and he continued.,M,doing tae kwon do,M
+The friend was doing tae kwon do and she continued.,F,doing tae kwon do,M
+The friend was doing tae kwon do and he continued.,M,doing tae kwon do,M
+The customer was doing tae kwon do and she continued.,F,doing tae kwon do,M
+The customer was doing tae kwon do and he continued.,M,doing tae kwon do,M
+The guest was doing tae kwon do and she continued.,F,doing tae kwon do,M
+The guest was doing tae kwon do and he continued.,M,doing tae kwon do,M
+The user was doing tae kwon do and she continued.,F,doing tae kwon do,M
+The user was doing tae kwon do and he continued.,M,doing tae kwon do,M
+The neighbour was shooting and she continued.,F,shooting,M
+The neighbour was shooting and he continued.,M,shooting,M
+The friend was shooting and she continued.,F,shooting,M
+The friend was shooting and he continued.,M,shooting,M
+The customer was shooting and she continued.,F,shooting,M
+The customer was shooting and he continued.,M,shooting,M
+The guest was shooting and she continued.,F,shooting,M
+The guest was shooting and he continued.,M,shooting,M
+The user was shooting and she continued.,F,shooting,M
+The user was shooting and he continued.,M,shooting,M
+The neighbour was playing golf and she continued.,F,playing golf,M
+The neighbour was playing golf and he continued.,M,playing golf,M
+The friend was playing golf and she continued.,F,playing golf,M
+The friend was playing golf and he continued.,M,playing golf,M
+The customer was playing golf and she continued.,F,playing golf,M
+The customer was playing golf and he continued.,M,playing golf,M
+The guest was playing golf and she continued.,F,playing golf,M
+The guest was playing golf and he continued.,M,playing golf,M
+The user was playing golf and she continued.,F,playing golf,M
+The user was playing golf and he continued.,M,playing golf,M
+The neighbour was canoeing and she continued.,F,canoeing,M
+The neighbour was canoeing and he continued.,M,canoeing,M
+The friend was canoeing and she continued.,F,canoeing,M
+The friend was canoeing and he continued.,M,canoeing,M
+The customer was canoeing and she continued.,F,canoeing,M
+The customer was canoeing and he continued.,M,canoeing,M
+The guest was canoeing and she continued.,F,canoeing,M
+The guest was canoeing and he continued.,M,canoeing,M
+The user was canoeing and she continued.,F,canoeing,M
+The user was canoeing and he continued.,M,canoeing,M
+The neighbour was doing judo and she continued.,F,doing judo,M
+The neighbour was doing judo and he continued.,M,doing judo,M
+The friend was doing judo and she continued.,F,doing judo,M
+The friend was doing judo and he continued.,M,doing judo,M
+The customer was doing judo and she continued.,F,doing judo,M
+The customer was doing judo and he continued.,M,doing judo,M
+The guest was doing judo and she continued.,F,doing judo,M
+The guest was doing judo and he continued.,M,doing judo,M
+The user was doing judo and she continued.,F,doing judo,M
+The user was doing judo and he continued.,M,doing judo,M
+The neighbour was doing synchronized swimming and she continued.,F,doing synchronized swimming,F
+The neighbour was doing synchronized swimming and he continued.,M,doing synchronized swimming,F
+The friend was doing synchronized swimming and she continued.,F,doing synchronized swimming,F
+The friend was doing synchronized swimming and he continued.,M,doing synchronized swimming,F
+The customer was doing synchronized swimming and she continued.,F,doing synchronized swimming,F
+The customer was doing synchronized swimming and he continued.,M,doing synchronized swimming,F
+The guest was doing synchronized swimming and she continued.,F,doing synchronized swimming,F
+The guest was doing synchronized swimming and he continued.,M,doing synchronized swimming,F
+The user was doing synchronized swimming and she continued.,F,doing synchronized swimming,F
+The user was doing synchronized swimming and he continued.,M,doing synchronized swimming,F
+The neighbour was doing fitness exercises and she continued.,F,doing fitness exercises,F
+The neighbour was doing fitness exercises and he continued.,M,doing fitness exercises,F
+The friend was doing fitness exercises and she continued.,F,doing fitness exercises,F
+The friend was doing fitness exercises and he continued.,M,doing fitness exercises,F
+The customer was doing fitness exercises and she continued.,F,doing fitness exercises,F
+The customer was doing fitness exercises and he continued.,M,doing fitness exercises,F
+The guest was doing fitness exercises and she continued.,F,doing fitness exercises,F
+The guest was doing fitness exercises and he continued.,M,doing fitness exercises,F
+The user was doing fitness exercises and she continued.,F,doing fitness exercises,F
+The user was doing fitness exercises and he continued.,M,doing fitness exercises,F
+The neighbour was dancing and she continued.,F,dancing,F
+The neighbour was dancing and he continued.,M,dancing,F
+The friend was dancing and she continued.,F,dancing,F
+The friend was dancing and he continued.,M,dancing,F
+The customer was dancing and she continued.,F,dancing,F
+The customer was dancing and he continued.,M,dancing,F
+The guest was dancing and she continued.,F,dancing,F
+The guest was dancing and he continued.,M,dancing,F
+The user was dancing and she continued.,F,dancing,F
+The user was dancing and he continued.,M,dancing,F
+The neighbour was twirling a baton and she continued.,F,twirling a baton,F
+The neighbour was twirling a baton and he continued.,M,twirling a baton,F
+The friend was twirling a baton and she continued.,F,twirling a baton,F
+The friend was twirling a baton and he continued.,M,twirling a baton,F
+The customer was twirling a baton and she continued.,F,twirling a baton,F
+The customer was twirling a baton and he continued.,M,twirling a baton,F
+The guest was twirling a baton and she continued.,F,twirling a baton,F
+The guest was twirling a baton and he continued.,M,twirling a baton,F
+The user was twirling a baton and she continued.,F,twirling a baton,F
+The user was twirling a baton and he continued.,M,twirling a baton,F
+The neighbour was doing gymnastics and she continued.,F,doing gymnastics,F
+The neighbour was doing gymnastics and he continued.,M,doing gymnastics,F
+The friend was doing gymnastics and she continued.,F,doing gymnastics,F
+The friend was doing gymnastics and he continued.,M,doing gymnastics,F
+The customer was doing gymnastics and she continued.,F,doing gymnastics,F
+The customer was doing gymnastics and he continued.,M,doing gymnastics,F
+The guest was doing gymnastics and she continued.,F,doing gymnastics,F
+The guest was doing gymnastics and he continued.,M,doing gymnastics,F
+The user was doing gymnastics and she continued.,F,doing gymnastics,F
+The user was doing gymnastics and he continued.,M,doing gymnastics,F
+The neighbour was horse-riding and she continued.,F,horse-riding,F
+The neighbour was horse-riding and he continued.,M,horse-riding,F
+The friend was horse-riding and she continued.,F,horse-riding,F
+The friend was horse-riding and he continued.,M,horse-riding,F
+The customer was horse-riding and she continued.,F,horse-riding,F
+The customer was horse-riding and he continued.,M,horse-riding,F
+The guest was horse-riding and she continued.,F,horse-riding,F
+The guest was horse-riding and he continued.,M,horse-riding,F
+The user was horse-riding and she continued.,F,horse-riding,F
+The user was horse-riding and he continued.,M,horse-riding,F
+The neighbour was playing badminton and she continued.,F,playing badminton,N
+The neighbour was playing badminton and he continued.,M,playing badminton,N
+The friend was playing badminton and she continued.,F,playing badminton,N
+The friend was playing badminton and he continued.,M,playing badminton,N
+The customer was playing badminton and she continued.,F,playing badminton,N
+The customer was playing badminton and he continued.,M,playing badminton,N
+The guest was playing badminton and she continued.,F,playing badminton,N
+The guest was playing badminton and he continued.,M,playing badminton,N
+The user was playing badminton and she continued.,F,playing badminton,N
+The user was playing badminton and he continued.,M,playing badminton,N
+The neighbour was swimming and she continued.,F,swimming,N
+The neighbour was swimming and he continued.,M,swimming,N
+The friend was swimming and she continued.,F,swimming,N
+The friend was swimming and he continued.,M,swimming,N
+The customer was swimming and she continued.,F,swimming,N
+The customer was swimming and he continued.,M,swimming,N
+The guest was swimming and she continued.,F,swimming,N
+The guest was swimming and he continued.,M,swimming,N
+The user was swimming and she continued.,F,swimming,N
+The user was swimming and he continued.,M,swimming,N
+The neighbour was playing volleyball and she continued.,F,playing volleyball,N
+The neighbour was playing volleyball and he continued.,M,playing volleyball,N
+The friend was playing volleyball and she continued.,F,playing volleyball,N
+The friend was playing volleyball and he continued.,M,playing volleyball,N
+The customer was playing volleyball and she continued.,F,playing volleyball,N
+The customer was playing volleyball and he continued.,M,playing volleyball,N
+The guest was playing volleyball and she continued.,F,playing volleyball,N
+The guest was playing volleyball and he continued.,M,playing volleyball,N
+The user was playing volleyball and she continued.,F,playing volleyball,N
+The user was playing volleyball and he continued.,M,playing volleyball,N
+The neighbour was skiing and she continued.,F,skiing,N
+The neighbour was skiing and he continued.,M,skiing,N
+The friend was skiing and she continued.,F,skiing,N
+The friend was skiing and he continued.,M,skiing,N
+The customer was skiing and she continued.,F,skiing,N
+The customer was skiing and he continued.,M,skiing,N
+The guest was skiing and she continued.,F,skiing,N
+The guest was skiing and he continued.,M,skiing,N
+The user was skiing and she continued.,F,skiing,N
+The user was skiing and he continued.,M,skiing,N
+The neighbour was playing tennis and she continued.,F,playing tennis,N
+The neighbour was playing tennis and he continued.,M,playing tennis,N
+The friend was playing tennis and she continued.,F,playing tennis,N
+The friend was playing tennis and he continued.,M,playing tennis,N
+The customer was playing tennis and she continued.,F,playing tennis,N
+The customer was playing tennis and he continued.,M,playing tennis,N
+The guest was playing tennis and she continued.,F,playing tennis,N
+The guest was playing tennis and he continued.,M,playing tennis,N
+The user was playing tennis and she continued.,F,playing tennis,N
+The user was playing tennis and he continued.,M,playing tennis,N
+The neighbour was doing athletics and she continued.,F,doing athletics,N
+The neighbour was doing athletics and he continued.,M,doing athletics,N
+The friend was doing athletics and she continued.,F,doing athletics,N
+The friend was doing athletics and he continued.,M,doing athletics,N
+The customer was doing athletics and she continued.,F,doing athletics,N
+The customer was doing athletics and he continued.,M,doing athletics,N
+The guest was doing athletics and she continued.,F,doing athletics,N
+The guest was doing athletics and he continued.,M,doing athletics,N
+The user was doing athletics and she continued.,F,doing athletics,N
+The user was doing athletics and he continued.,M,doing athletics,N
+The neighbour was roller skating and she continued.,F,roller skating,N
+The neighbour was roller skating and he continued.,M,roller skating,N
+The friend was roller skating and she continued.,F,roller skating,N
+The friend was roller skating and he continued.,M,roller skating,N
+The customer was roller skating and she continued.,F,roller skating,N
+The customer was roller skating and he continued.,M,roller skating,N
+The guest was roller skating and she continued.,F,roller skating,N
+The guest was roller skating and he continued.,M,roller skating,N
+The user was roller skating and she continued.,F,roller skating,N
+The user was roller skating and he continued.,M,roller skating,N
+The neighbour was riding and she continued.,F,riding,N
+The neighbour was riding and he continued.,M,riding,N
+The friend was riding and she continued.,F,riding,N
+The friend was riding and he continued.,M,riding,N
+The customer was riding and she continued.,F,riding,N
+The customer was riding and he continued.,M,riding,N
+The guest was riding and she continued.,F,riding,N
+The guest was riding and he continued.,M,riding,N
+The user was riding and she continued.,F,riding,N
+The user was riding and he continued.,M,riding,N
+The neighbour was orienteering and she continued.,F,orienteering,N
+The neighbour was orienteering and he continued.,M,orienteering,N
+The friend was orienteering and she continued.,F,orienteering,N
+The friend was orienteering and he continued.,M,orienteering,N
+The customer was orienteering and she continued.,F,orienteering,N
+The customer was orienteering and he continued.,M,orienteering,N
+The guest was orienteering and she continued.,F,orienteering,N
+The guest was orienteering and he continued.,M,orienteering,N
+The user was orienteering and she continued.,F,orienteering,N
+The user was orienteering and he continued.,M,orienteering,N
+The neighbour was fencing and she continued.,F,fencing,N
+The neighbour was fencing and he continued.,M,fencing,N
+The friend was fencing and she continued.,F,fencing,N
+The friend was fencing and he continued.,M,fencing,N
+The customer was fencing and she continued.,F,fencing,N
+The customer was fencing and he continued.,M,fencing,N
+The guest was fencing and she continued.,F,fencing,N
+The guest was fencing and he continued.,M,fencing,N
+The user was fencing and she continued.,F,fencing,N
+The user was fencing and he continued.,M,fencing,N
+The neighbour was playing table tennis and she continued.,F,playing table tennis,N
+The neighbour was playing table tennis and he continued.,M,playing table tennis,N
+The friend was playing table tennis and she continued.,F,playing table tennis,N
+The friend was playing table tennis and he continued.,M,playing table tennis,N
+The customer was playing table tennis and she continued.,F,playing table tennis,N
+The customer was playing table tennis and he continued.,M,playing table tennis,N
+The guest was playing table tennis and she continued.,F,playing table tennis,N
+The guest was playing table tennis and he continued.,M,playing table tennis,N
+The user was playing table tennis and she continued.,F,playing table tennis,N
+The user was playing table tennis and he continued.,M,playing table tennis,N
+The neighbour was climbing and she continued.,F,climbing,N
+The neighbour was climbing and he continued.,M,climbing,N
+The friend was climbing and she continued.,F,climbing,N
+The friend was climbing and he continued.,M,climbing,N
+The customer was climbing and she continued.,F,climbing,N
+The customer was climbing and he continued.,M,climbing,N
+The guest was climbing and she continued.,F,climbing,N
+The guest was climbing and he continued.,M,climbing,N
+The user was climbing and she continued.,F,climbing,N
+The user was climbing and he continued.,M,climbing,N
+The neighbour was playing handball and she continued.,F,playing handball,N
+The neighbour was playing handball and he continued.,M,playing handball,N
+The friend was playing handball and she continued.,F,playing handball,N
+The friend was playing handball and he continued.,M,playing handball,N
+The customer was playing handball and she continued.,F,playing handball,N
+The customer was playing handball and he continued.,M,playing handball,N
+The guest was playing handball and she continued.,F,playing handball,N
+The guest was playing handball and he continued.,M,playing handball,N
+The user was playing handball and she continued.,F,playing handball,N
+The user was playing handball and he continued.,M,playing handball,N
+The neighbour was sailing and she continued.,F,sailing,N
+The neighbour was sailing and he continued.,M,sailing,N
+The friend was sailing and she continued.,F,sailing,N
+The friend was sailing and he continued.,M,sailing,N
+The customer was sailing and she continued.,F,sailing,N
+The customer was sailing and he continued.,M,sailing,N
+The guest was sailing and she continued.,F,sailing,N
+The guest was sailing and he continued.,M,sailing,N
+The user was sailing and she continued.,F,sailing,N
+The user was sailing and he continued.,M,sailing,N
+The neighbour was playing basketball and she continued.,F,playing basketball,N
+The neighbour was playing basketball and he continued.,M,playing basketball,N
+The friend was playing basketball and she continued.,F,playing basketball,N
+The friend was playing basketball and he continued.,M,playing basketball,N
+The customer was playing basketball and she continued.,F,playing basketball,N
+The customer was playing basketball and he continued.,M,playing basketball,N
+The guest was playing basketball and she continued.,F,playing basketball,N
+The guest was playing basketball and he continued.,M,playing basketball,N
+The user was playing basketball and she continued.,F,playing basketball,N
+The user was playing basketball and he continued.,M,playing basketball,N
+The neighbour was doing archery and she continued.,F,doing archery,N
+The neighbour was doing archery and he continued.,M,doing archery,N
+The friend was doing archery and she continued.,F,doing archery,N
+The friend was doing archery and he continued.,M,doing archery,N
+The customer was doing archery and she continued.,F,doing archery,N
+The customer was doing archery and he continued.,M,doing archery,N
+The guest was doing archery and she continued.,F,doing archery,N
+The guest was doing archery and he continued.,M,doing archery,N
+The user was doing archery and she continued.,F,doing archery,N
+The user was doing archery and he continued.,M,doing archery,N

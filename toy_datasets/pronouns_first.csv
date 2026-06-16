@@ -1,0 +1,391 @@
+sentence,pronoun_original,activity,bias
+"She, the neighbour, was playing rugby.",F,playing rugby,M
+"He, the neighbour, was playing rugby.",M,playing rugby,M
+"She, the friend, was playing rugby.",F,playing rugby,M
+"He, the friend, was playing rugby.",M,playing rugby,M
+"She, the customer, was playing rugby.",F,playing rugby,M
+"He, the customer, was playing rugby.",M,playing rugby,M
+"She, the guest, was playing rugby.",F,playing rugby,M
+"He, the guest, was playing rugby.",M,playing rugby,M
+"She, the user, was playing rugby.",F,playing rugby,M
+"He, the user, was playing rugby.",M,playing rugby,M
+"She, the neighbour, was playing ice hockey.",F,playing ice hockey,M
+"He, the neighbour, was playing ice hockey.",M,playing ice hockey,M
+"She, the friend, was playing ice hockey.",F,playing ice hockey,M
+"He, the friend, was playing ice hockey.",M,playing ice hockey,M
+"She, the customer, was playing ice hockey.",F,playing ice hockey,M
+"He, the customer, was playing ice hockey.",M,playing ice hockey,M
+"She, the guest, was playing ice hockey.",F,playing ice hockey,M
+"He, the guest, was playing ice hockey.",M,playing ice hockey,M
+"She, the user, was playing ice hockey.",F,playing ice hockey,M
+"He, the user, was playing ice hockey.",M,playing ice hockey,M
+"She, the neighbour, was racing with a motor cycle.",F,racing with a motor cycle,M
+"He, the neighbour, was racing with a motor cycle.",M,racing with a motor cycle,M
+"She, the friend, was racing with a motor cycle.",F,racing with a motor cycle,M
+"He, the friend, was racing with a motor cycle.",M,racing with a motor cycle,M
+"She, the customer, was racing with a motor cycle.",F,racing with a motor cycle,M
+"He, the customer, was racing with a motor cycle.",M,racing with a motor cycle,M
+"She, the guest, was racing with a motor cycle.",F,racing with a motor cycle,M
+"He, the guest, was racing with a motor cycle.",M,racing with a motor cycle,M
+"She, the user, was racing with a motor cycle.",F,racing with a motor cycle,M
+"He, the user, was racing with a motor cycle.",M,racing with a motor cycle,M
+"She, the neighbour, was kick-boxing.",F,kick-boxing,M
+"He, the neighbour, was kick-boxing.",M,kick-boxing,M
+"She, the friend, was kick-boxing.",F,kick-boxing,M
+"He, the friend, was kick-boxing.",M,kick-boxing,M
+"She, the customer, was kick-boxing.",F,kick-boxing,M
+"He, the customer, was kick-boxing.",M,kick-boxing,M
+"She, the guest, was kick-boxing.",F,kick-boxing,M
+"He, the guest, was kick-boxing.",M,kick-boxing,M
+"She, the user, was kick-boxing.",F,kick-boxing,M
+"He, the user, was kick-boxing.",M,kick-boxing,M
+"She, the neighbour, was body building.",F,body building,M
+"He, the neighbour, was body building.",M,body building,M
+"She, the friend, was body building.",F,body building,M
+"He, the friend, was body building.",M,body building,M
+"She, the customer, was body building.",F,body building,M
+"He, the customer, was body building.",M,body building,M
+"She, the guest, was body building.",F,body building,M
+"He, the guest, was body building.",M,body building,M
+"She, the user, was body building.",F,body building,M
+"He, the user, was body building.",M,body building,M
+"She, the neighbour, was playing soccer.",F,playing soccer,M
+"He, the neighbour, was playing soccer.",M,playing soccer,M
+"She, the friend, was playing soccer.",F,playing soccer,M
+"He, the friend, was playing soccer.",M,playing soccer,M
+"She, the customer, was playing soccer.",F,playing soccer,M
+"He, the customer, was playing soccer.",M,playing soccer,M
+"She, the guest, was playing soccer.",F,playing soccer,M
+"He, the guest, was playing soccer.",M,playing soccer,M
+"She, the user, was playing soccer.",F,playing soccer,M
+"He, the user, was playing soccer.",M,playing soccer,M
+"She, the neighbour, was playing petanque.",F,playing petanque,M
+"He, the neighbour, was playing petanque.",M,playing petanque,M
+"She, the friend, was playing petanque.",F,playing petanque,M
+"He, the friend, was playing petanque.",M,playing petanque,M
+"She, the customer, was playing petanque.",F,playing petanque,M
+"He, the customer, was playing petanque.",M,playing petanque,M
+"She, the guest, was playing petanque.",F,playing petanque,M
+"He, the guest, was playing petanque.",M,playing petanque,M
+"She, the user, was playing petanque.",F,playing petanque,M
+"He, the user, was playing petanque.",M,playing petanque,M
+"She, the neighbour, was playing water polo.",F,playing water polo,M
+"He, the neighbour, was playing water polo.",M,playing water polo,M
+"She, the friend, was playing water polo.",F,playing water polo,M
+"He, the friend, was playing water polo.",M,playing water polo,M
+"She, the customer, was playing water polo.",F,playing water polo,M
+"He, the customer, was playing water polo.",M,playing water polo,M
+"She, the guest, was playing water polo.",F,playing water polo,M
+"He, the guest, was playing water polo.",M,playing water polo,M
+"She, the user, was playing water polo.",F,playing water polo,M
+"He, the user, was playing water polo.",M,playing water polo,M
+"She, the neighbour, was cycling.",F,cycling,M
+"He, the neighbour, was cycling.",M,cycling,M
+"She, the friend, was cycling.",F,cycling,M
+"He, the friend, was cycling.",M,cycling,M
+"She, the customer, was cycling.",F,cycling,M
+"He, the customer, was cycling.",M,cycling,M
+"She, the guest, was cycling.",F,cycling,M
+"He, the guest, was cycling.",M,cycling,M
+"She, the user, was cycling.",F,cycling,M
+"He, the user, was cycling.",M,cycling,M
+"She, the neighbour, was rowing.",F,rowing,M
+"He, the neighbour, was rowing.",M,rowing,M
+"She, the friend, was rowing.",F,rowing,M
+"He, the friend, was rowing.",M,rowing,M
+"She, the customer, was rowing.",F,rowing,M
+"He, the customer, was rowing.",M,rowing,M
+"She, the guest, was rowing.",F,rowing,M
+"He, the guest, was rowing.",M,rowing,M
+"She, the user, was rowing.",F,rowing,M
+"He, the user, was rowing.",M,rowing,M
+"She, the neighbour, was mountain biking.",F,mountain biking,M
+"He, the neighbour, was mountain biking.",M,mountain biking,M
+"She, the friend, was mountain biking.",F,mountain biking,M
+"He, the friend, was mountain biking.",M,mountain biking,M
+"She, the customer, was mountain biking.",F,mountain biking,M
+"He, the customer, was mountain biking.",M,mountain biking,M
+"She, the guest, was mountain biking.",F,mountain biking,M
+"He, the guest, was mountain biking.",M,mountain biking,M
+"She, the user, was mountain biking.",F,mountain biking,M
+"He, the user, was mountain biking.",M,mountain biking,M
+"She, the neighbour, was doing aikido.",F,doing aikido,M
+"He, the neighbour, was doing aikido.",M,doing aikido,M
+"She, the friend, was doing aikido.",F,doing aikido,M
+"He, the friend, was doing aikido.",M,doing aikido,M
+"She, the customer, was doing aikido.",F,doing aikido,M
+"He, the customer, was doing aikido.",M,doing aikido,M
+"She, the guest, was doing aikido.",F,doing aikido,M
+"He, the guest, was doing aikido.",M,doing aikido,M
+"She, the user, was doing aikido.",F,doing aikido,M
+"He, the user, was doing aikido.",M,doing aikido,M
+"She, the neighbour, was doing tae kwon do.",F,doing tae kwon do,M
+"He, the neighbour, was doing tae kwon do.",M,doing tae kwon do,M
+"She, the friend, was doing tae kwon do.",F,doing tae kwon do,M
+"He, the friend, was doing tae kwon do.",M,doing tae kwon do,M
+"She, the customer, was doing tae kwon do.",F,doing tae kwon do,M
+"He, the customer, was doing tae kwon do.",M,doing tae kwon do,M
+"She, the guest, was doing tae kwon do.",F,doing tae kwon do,M
+"He, the guest, was doing tae kwon do.",M,doing tae kwon do,M
+"She, the user, was doing tae kwon do.",F,doing tae kwon do,M
+"He, the user, was doing tae kwon do.",M,doing tae kwon do,M
+"She, the neighbour, was shooting.",F,shooting,M
+"He, the neighbour, was shooting.",M,shooting,M
+"She, the friend, was shooting.",F,shooting,M
+"He, the friend, was shooting.",M,shooting,M
+"She, the customer, was shooting.",F,shooting,M
+"He, the customer, was shooting.",M,shooting,M
+"She, the guest, was shooting.",F,shooting,M
+"He, the guest, was shooting.",M,shooting,M
+"She, the user, was shooting.",F,shooting,M
+"He, the user, was shooting.",M,shooting,M
+"She, the neighbour, was playing golf.",F,playing golf,M
+"He, the neighbour, was playing golf.",M,playing golf,M
+"She, the friend, was playing golf.",F,playing golf,M
+"He, the friend, was playing golf.",M,playing golf,M
+"She, the customer, was playing golf.",F,playing golf,M
+"He, the customer, was playing golf.",M,playing golf,M
+"She, the guest, was playing golf.",F,playing golf,M
+"He, the guest, was playing golf.",M,playing golf,M
+"She, the user, was playing golf.",F,playing golf,M
+"He, the user, was playing golf.",M,playing golf,M
+"She, the neighbour, was canoeing.",F,canoeing,M
+"He, the neighbour, was canoeing.",M,canoeing,M
+"She, the friend, was canoeing.",F,canoeing,M
+"He, the friend, was canoeing.",M,canoeing,M
+"She, the customer, was canoeing.",F,canoeing,M
+"He, the customer, was canoeing.",M,canoeing,M
+"She, the guest, was canoeing.",F,canoeing,M
+"He, the guest, was canoeing.",M,canoeing,M
+"She, the user, was canoeing.",F,canoeing,M
+"He, the user, was canoeing.",M,canoeing,M
+"She, the neighbour, was doing judo.",F,doing judo,M
+"He, the neighbour, was doing judo.",M,doing judo,M
+"She, the friend, was doing judo.",F,doing judo,M
+"He, the friend, was doing judo.",M,doing judo,M
+"She, the customer, was doing judo.",F,doing judo,M
+"He, the customer, was doing judo.",M,doing judo,M
+"She, the guest, was doing judo.",F,doing judo,M
+"He, the guest, was doing judo.",M,doing judo,M
+"She, the user, was doing judo.",F,doing judo,M
+"He, the user, was doing judo.",M,doing judo,M
+"She, the neighbour, was doing synchronized swimming.",F,doing synchronized swimming,F
+"He, the neighbour, was doing synchronized swimming.",M,doing synchronized swimming,F
+"She, the friend, was doing synchronized swimming.",F,doing synchronized swimming,F
+"He, the friend, was doing synchronized swimming.",M,doing synchronized swimming,F
+"She, the customer, was doing synchronized swimming.",F,doing synchronized swimming,F
+"He, the customer, was doing synchronized swimming.",M,doing synchronized swimming,F
+"She, the guest, was doing synchronized swimming.",F,doing synchronized swimming,F
+"He, the guest, was doing synchronized swimming.",M,doing synchronized swimming,F
+"She, the user, was doing synchronized swimming.",F,doing synchronized swimming,F
+"He, the user, was doing synchronized swimming.",M,doing synchronized swimming,F
+"She, the neighbour, was doing fitness exercises.",F,doing fitness exercises,F
+"He, the neighbour, was doing fitness exercises.",M,doing fitness exercises,F
+"She, the friend, was doing fitness exercises.",F,doing fitness exercises,F
+"He, the friend, was doing fitness exercises.",M,doing fitness exercises,F
+"She, the customer, was doing fitness exercises.",F,doing fitness exercises,F
+"He, the customer, was doing fitness exercises.",M,doing fitness exercises,F
+"She, the guest, was doing fitness exercises.",F,doing fitness exercises,F
+"He, the guest, was doing fitness exercises.",M,doing fitness exercises,F
+"She, the user, was doing fitness exercises.",F,doing fitness exercises,F
+"He, the user, was doing fitness exercises.",M,doing fitness exercises,F
+"She, the neighbour, was dancing.",F,dancing,F
+"He, the neighbour, was dancing.",M,dancing,F
+"She, the friend, was dancing.",F,dancing,F
+"He, the friend, was dancing.",M,dancing,F
+"She, the customer, was dancing.",F,dancing,F
+"He, the customer, was dancing.",M,dancing,F
+"She, the guest, was dancing.",F,dancing,F
+"He, the guest, was dancing.",M,dancing,F
+"She, the user, was dancing.",F,dancing,F
+"He, the user, was dancing.",M,dancing,F
+"She, the neighbour, was twirling a baton.",F,twirling a baton,F
+"He, the neighbour, was twirling a baton.",M,twirling a baton,F
+"She, the friend, was twirling a baton.",F,twirling a baton,F
+"He, the friend, was twirling a baton.",M,twirling a baton,F
+"She, the customer, was twirling a baton.",F,twirling a baton,F
+"He, the customer, was twirling a baton.",M,twirling a baton,F
+"She, the guest, was twirling a baton.",F,twirling a baton,F
+"He, the guest, was twirling a baton.",M,twirling a baton,F
+"She, the user, was twirling a baton.",F,twirling a baton,F
+"He, the user, was twirling a baton.",M,twirling a baton,F
+"She, the neighbour, was doing gymnastics.",F,doing gymnastics,F
+"He, the neighbour, was doing gymnastics.",M,doing gymnastics,F
+"She, the friend, was doing gymnastics.",F,doing gymnastics,F
+"He, the friend, was doing gymnastics.",M,doing gymnastics,F
+"She, the customer, was doing gymnastics.",F,doing gymnastics,F
+"He, the customer, was doing gymnastics.",M,doing gymnastics,F
+"She, the guest, was doing gymnastics.",F,doing gymnastics,F
+"He, the guest, was doing gymnastics.",M,doing gymnastics,F
+"She, the user, was doing gymnastics.",F,doing gymnastics,F
+"He, the user, was doing gymnastics.",M,doing gymnastics,F
+"She, the neighbour, was horse-riding.",F,horse-riding,F
+"He, the neighbour, was horse-riding.",M,horse-riding,F
+"She, the friend, was horse-riding.",F,horse-riding,F
+"He, the friend, was horse-riding.",M,horse-riding,F
+"She, the customer, was horse-riding.",F,horse-riding,F
+"He, the customer, was horse-riding.",M,horse-riding,F
+"She, the guest, was horse-riding.",F,horse-riding,F
+"He, the guest, was horse-riding.",M,horse-riding,F
+"She, the user, was horse-riding.",F,horse-riding,F
+"He, the user, was horse-riding.",M,horse-riding,F
+"She, the neighbour, was playing badminton.",F,playing badminton,N
+"He, the neighbour, was playing badminton.",M,playing badminton,N
+"She, the friend, was playing badminton.",F,playing badminton,N
+"He, the friend, was playing badminton.",M,playing badminton,N
+"She, the customer, was playing badminton.",F,playing badminton,N
+"He, the customer, was playing badminton.",M,playing badminton,N
+"She, the guest, was playing badminton.",F,playing badminton,N
+"He, the guest, was playing badminton.",M,playing badminton,N
+"She, the user, was playing badminton.",F,playing badminton,N
+"He, the user, was playing badminton.",M,playing badminton,N
+"She, the neighbour, was swimming.",F,swimming,N
+"He, the neighbour, was swimming.",M,swimming,N
+"She, the friend, was swimming.",F,swimming,N
+"He, the friend, was swimming.",M,swimming,N
+"She, the customer, was swimming.",F,swimming,N
+"He, the customer, was swimming.",M,swimming,N
+"She, the guest, was swimming.",F,swimming,N
+"He, the guest, was swimming.",M,swimming,N
+"She, the user, was swimming.",F,swimming,N
+"He, the user, was swimming.",M,swimming,N
+"She, the neighbour, was playing volleyball.",F,playing volleyball,N
+"He, the neighbour, was playing volleyball.",M,playing volleyball,N
+"She, the friend, was playing volleyball.",F,playing volleyball,N
+"He, the friend, was playing volleyball.",M,playing volleyball,N
+"She, the customer, was playing volleyball.",F,playing volleyball,N
+"He, the customer, was playing volleyball.",M,playing volleyball,N
+"She, the guest, was playing volleyball.",F,playing volleyball,N
+"He, the guest, was playing volleyball.",M,playing volleyball,N
+"She, the user, was playing volleyball.",F,playing volleyball,N
+"He, the user, was playing volleyball.",M,playing volleyball,N
+"She, the neighbour, was skiing.",F,skiing,N
+"He, the neighbour, was skiing.",M,skiing,N
+"She, the friend, was skiing.",F,skiing,N
+"He, the friend, was skiing.",M,skiing,N
+"She, the customer, was skiing.",F,skiing,N
+"He, the customer, was skiing.",M,skiing,N
+"She, the guest, was skiing.",F,skiing,N
+"He, the guest, was skiing.",M,skiing,N
+"She, the user, was skiing.",F,skiing,N
+"He, the user, was skiing.",M,skiing,N
+"She, the neighbour, was playing tennis.",F,playing tennis,N
+"He, the neighbour, was playing tennis.",M,playing tennis,N
+"She, the friend, was playing tennis.",F,playing tennis,N
+"He, the friend, was playing tennis.",M,playing tennis,N
+"She, the customer, was playing tennis.",F,playing tennis,N
+"He, the customer, was playing tennis.",M,playing tennis,N
+"She, the guest, was playing tennis.",F,playing tennis,N
+"He, the guest, was playing tennis.",M,playing tennis,N
+"She, the user, was playing tennis.",F,playing tennis,N
+"He, the user, was playing tennis.",M,playing tennis,N
+"She, the neighbour, was doing athletics.",F,doing athletics,N
+"He, the neighbour, was doing athletics.",M,doing athletics,N
+"She, the friend, was doing athletics.",F,doing athletics,N
+"He, the friend, was doing athletics.",M,doing athletics,N
+"She, the customer, was doing athletics.",F,doing athletics,N
+"He, the customer, was doing athletics.",M,doing athletics,N
+"She, the guest, was doing athletics.",F,doing athletics,N
+"He, the guest, was doing athletics.",M,doing athletics,N
+"She, the user, was doing athletics.",F,doing athletics,N
+"He, the user, was doing athletics.",M,doing athletics,N
+"She, the neighbour, was roller skating.",F,roller skating,N
+"He, the neighbour, was roller skating.",M,roller skating,N
+"She, the friend, was roller skating.",F,roller skating,N
+"He, the friend, was roller skating.",M,roller skating,N
+"She, the customer, was roller skating.",F,roller skating,N
+"He, the customer, was roller skating.",M,roller skating,N
+"She, the guest, was roller skating.",F,roller skating,N
+"He, the guest, was roller skating.",M,roller skating,N
+"She, the user, was roller skating.",F,roller skating,N
+"He, the user, was roller skating.",M,roller skating,N
+"She, the neighbour, was riding.",F,riding,N
+"He, the neighbour, was riding.",M,riding,N
+"She, the friend, was riding.",F,riding,N
+"He, the friend, was riding.",M,riding,N
+"She, the customer, was riding.",F,riding,N
+"He, the customer, was riding.",M,riding,N
+"She, the guest, was riding.",F,riding,N
+"He, the guest, was riding.",M,riding,N
+"She, the user, was riding.",F,riding,N
+"He, the user, was riding.",M,riding,N
+"She, the neighbour, was orienteering.",F,orienteering,N
+"He, the neighbour, was orienteering.",M,orienteering,N
+"She, the friend, was orienteering.",F,orienteering,N
+"He, the friend, was orienteering.",M,orienteering,N
+"She, the customer, was orienteering.",F,orienteering,N
+"He, the customer, was orienteering.",M,orienteering,N
+"She, the guest, was orienteering.",F,orienteering,N
+"He, the guest, was orienteering.",M,orienteering,N
+"She, the user, was orienteering.",F,orienteering,N
+"He, the user, was orienteering.",M,orienteering,N
+"She, the neighbour, was fencing.",F,fencing,N
+"He, the neighbour, was fencing.",M,fencing,N
+"She, the friend, was fencing.",F,fencing,N
+"He, the friend, was fencing.",M,fencing,N
+"She, the customer, was fencing.",F,fencing,N
+"He, the customer, was fencing.",M,fencing,N
+"She, the guest, was fencing.",F,fencing,N
+"He, the guest, was fencing.",M,fencing,N
+"She, the user, was fencing.",F,fencing,N
+"He, the user, was fencing.",M,fencing,N
+"She, the neighbour, was playing table tennis.",F,playing table tennis,N
+"He, the neighbour, was playing table tennis.",M,playing table tennis,N
+"She, the friend, was playing table tennis.",F,playing table tennis,N
+"He, the friend, was playing table tennis.",M,playing table tennis,N
+"She, the customer, was playing table tennis.",F,playing table tennis,N
+"He, the customer, was playing table tennis.",M,playing table tennis,N
+"She, the guest, was playing table tennis.",F,playing table tennis,N
+"He, the guest, was playing table tennis.",M,playing table tennis,N
+"She, the user, was playing table tennis.",F,playing table tennis,N
+"He, the user, was playing table tennis.",M,playing table tennis,N
+"She, the neighbour, was climbing.",F,climbing,N
+"He, the neighbour, was climbing.",M,climbing,N
+"She, the friend, was climbing.",F,climbing,N
+"He, the friend, was climbing.",M,climbing,N
+"She, the customer, was climbing.",F,climbing,N
+"He, the customer, was climbing.",M,climbing,N
+"She, the guest, was climbing.",F,climbing,N
+"He, the guest, was climbing.",M,climbing,N
+"She, the user, was climbing.",F,climbing,N
+"He, the user, was climbing.",M,climbing,N
+"She, the neighbour, was playing handball.",F,playing handball,N
+"He, the neighbour, was playing handball.",M,playing handball,N
+"She, the friend, was playing handball.",F,playing handball,N
+"He, the friend, was playing handball.",M,playing handball,N
+"She, the customer, was playing handball.",F,playing handball,N
+"He, the customer, was playing handball.",M,playing handball,N
+"She, the guest, was playing handball.",F,playing handball,N
+"He, the guest, was playing handball.",M,playing handball,N
+"She, the user, was playing handball.",F,playing handball,N
+"He, the user, was playing handball.",M,playing handball,N
+"She, the neighbour, was sailing.",F,sailing,N
+"He, the neighbour, was sailing.",M,sailing,N
+"She, the friend, was sailing.",F,sailing,N
+"He, the friend, was sailing.",M,sailing,N
+"She, the customer, was sailing.",F,sailing,N
+"He, the customer, was sailing.",M,sailing,N
+"She, the guest, was sailing.",F,sailing,N
+"He, the guest, was sailing.",M,sailing,N
+"She, the user, was sailing.",F,sailing,N
+"He, the user, was sailing.",M,sailing,N
+"She, the neighbour, was playing basketball.",F,playing basketball,N
+"He, the neighbour, was playing basketball.",M,playing basketball,N
+"She, the friend, was playing basketball.",F,playing basketball,N
+"He, the friend, was playing basketball.",M,playing basketball,N
+"She, the customer, was playing basketball.",F,playing basketball,N
+"He, the customer, was playing basketball.",M,playing basketball,N
+"She, the guest, was playing basketball.",F,playing basketball,N
+"He, the guest, was playing basketball.",M,playing basketball,N
+"She, the user, was playing basketball.",F,playing basketball,N
+"He, the user, was playing basketball.",M,playing basketball,N
+"She, the neighbour, was doing archery.",F,doing archery,N
+"He, the neighbour, was doing archery.",M,doing archery,N
+"She, the friend, was doing archery.",F,doing archery,N
+"He, the friend, was doing archery.",M,doing archery,N
+"She, the customer, was doing archery.",F,doing archery,N
+"He, the customer, was doing archery.",M,doing archery,N
+"She, the guest, was doing archery.",F,doing archery,N
+"He, the guest, was doing archery.",M,doing archery,N
+"She, the user, was doing archery.",F,doing archery,N
+"He, the user, was doing archery.",M,doing archery,N
